@@ -27,8 +27,8 @@ To write a Java program to simulate the magical elevator logic using conditional
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: ALIYA SHEEMA
-RegisterNumber: 212223230011
+Developed by: VINODHINI K
+RegisterNumber: 212223230245
 */
 ```
 
