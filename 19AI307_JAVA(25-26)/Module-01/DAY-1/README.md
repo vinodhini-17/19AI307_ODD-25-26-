@@ -22,8 +22,8 @@ To write a Java program to print "Hey, my first java program!" using an output s
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: ALIYA SHEEMA 
-RegisterNumber:  212223230011
+Developed by: VINODHINI K
+RegisterNumber:  212223230245
 */
 ```
 
