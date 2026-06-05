@@ -20,8 +20,8 @@ To write a Java program to reverse a given string.
  ```
 /*
 Program to implement string manipulation using Java
-Developed by: ALIYA SHEEMA 
-RegisterNumber: 212223230011
+Developed by: VINODHINI K
+RegisterNumber: 212223230245
 */
 ```
 
