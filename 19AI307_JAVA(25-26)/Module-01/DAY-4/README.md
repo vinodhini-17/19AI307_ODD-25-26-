@@ -21,8 +21,8 @@ To write a Java program to find the average of array elements.
  ```
 /*
 Program to implement array operations using Java
-Developed by: ALIYA SHEEMA
-RegisterNumber: 212223230011
+Developed by: VINODHINI K
+RegisterNumber: 212223230245
 */
 ```
 
