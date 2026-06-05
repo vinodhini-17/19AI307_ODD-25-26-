@@ -24,8 +24,8 @@ To write a Java program to calculate the factorial of a non-negative integer usi
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: ALIYA SHEEMA 
-RegisterNumber: 212223230011
+Developed by: VINODHINI K 
+RegisterNumber: 212223230245
 */
 ```
 
